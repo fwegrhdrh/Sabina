@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Name</string>
+    <string name="скачено">Скачено</string>
+    <string name="прогресс">Прогресс</string>
+    <string name="глоссарий">Глоссарий</string>
+
+
+</resources>
